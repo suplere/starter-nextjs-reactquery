@@ -13,7 +13,7 @@
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^2.0.0",
     "@nhost/nextjs": "^1.7.0",
-    "@nhost/react": "^0.12.0",
+    "@nhost/react": "^1.0.0",
     "@tanstack/react-query": "^4.0.10",
     "@types/lodash.debounce": "^4.0.7",
     "graphql": "^16.5.0",
