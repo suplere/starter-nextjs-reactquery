@@ -11,7 +11,7 @@
   "dependencies": {
     "@fontsource/inter": "^4.5.11",
     "@headlessui/react": "^1.6.6",
-    "@heroicons/react": "^1.0.6",
+    "@heroicons/react": "^2.0.0",
     "@nhost/nextjs": "^1.7.0",
     "@nhost/react": "^0.12.0",
     "@tanstack/react-query": "^4.0.10",
