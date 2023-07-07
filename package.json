@@ -9,7 +9,7 @@
     "codegen": "graphql-codegen --config graphql.config.yaml --errors-only"
   },
   "dependencies": {
-    "@fontsource/inter": "^4.5.11",
+    "@fontsource/inter": "^5.0.0",
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^2.0.0",
     "@nhost/nextjs": "^1.7.0",
