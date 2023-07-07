@@ -567,10 +567,10 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@fontsource/inter@^4.5.11":
-  version "4.5.11"
-  resolved "https://registry.yarnpkg.com/@fontsource/inter/-/inter-4.5.11.tgz#3c45014821e8c82b247a291f1944dd2764a2d1ed"
-  integrity sha512-toizzQkfXL8YJcG/f8j3EYXYGQe4OxiDEItThSigvHU+cYNDw8HPp3wLYQX745hddsnHqOGCM4exitFSBOU8+w==
+"@fontsource/inter@^5.0.0":
+  version "5.0.4"
+  resolved "https://registry.yarnpkg.com/@fontsource/inter/-/inter-5.0.4.tgz#95e5c9f082b285ed6375b1ea08af34489d52d236"
+  integrity sha512-rUiTktdsh6B45XRZYTsZb2y4+TVkiVJhkqCSnSXfWxdUl0Rp6Cheu27IcurdjSfxJPUD+nl18wYp5RFf5P5zlA==
 
 "@fullhuman/postcss-purgecss@^2.1.2":
   version "2.3.0"
