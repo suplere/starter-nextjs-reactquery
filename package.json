@@ -14,7 +14,7 @@
     "@heroicons/react": "^2.0.0",
     "@nhost/nextjs": "^1.7.0",
     "@nhost/react": "^2.0.0",
-    "@tanstack/react-query": "^4.0.10",
+    "@tanstack/react-query": "^5.0.0",
     "@types/lodash.debounce": "^4.0.7",
     "graphql": "^16.5.0",
     "lodash.debounce": "^4.0.8",
